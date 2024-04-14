@@ -1,0 +1,87 @@
+C:\Users\HELLO\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe.config
+C:\Users\HELLO\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe.manifest
+C:\Users\HELLO\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.application
+C:\Users\HELLO\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe
+C:\Users\HELLO\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.pdb
+C:\Users\HELLO\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\bin\Debug\Guna.UI2.dll
+C:\Users\HELLO\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.csproj.AssemblyReference.cache
+C:\Users\HELLO\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.ThanhToanKH.resources
+C:\Users\HELLO\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.FormThanhToan.resources
+C:\Users\HELLO\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.ThanhToanTC.resources
+C:\Users\HELLO\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.FormKH.resources
+C:\Users\HELLO\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.TTKH.resources
+C:\Users\HELLO\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.TrangChu.resources
+C:\Users\HELLO\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.LoginForm.resources
+C:\Users\HELLO\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.MainForm.resources
+C:\Users\HELLO\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.FormThuCung.resources
+C:\Users\HELLO\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.TTTC.resources
+C:\Users\HELLO\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.Properties.Resources.resources
+C:\Users\HELLO\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.FormGiaoDien.resources
+C:\Users\HELLO\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.FormNguoiDung.resources
+C:\Users\HELLO\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.TTND.resources
+C:\Users\HELLO\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.csproj.GenerateResource.cache
+C:\Users\HELLO\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\HELLO\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.exe.manifest
+C:\Users\HELLO\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.application
+C:\Users\HELLO\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.csproj.CopyComplete
+C:\Users\HELLO\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.exe
+C:\Users\HELLO\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.pdb
+C:\Users\HELLO\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.FormLSGD.resources
+C:\Users\HELLO\OneDrive\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe.config
+C:\Users\HELLO\OneDrive\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe.manifest
+C:\Users\HELLO\OneDrive\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.application
+C:\Users\HELLO\OneDrive\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe
+C:\Users\HELLO\OneDrive\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.pdb
+C:\Users\HELLO\OneDrive\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\bin\Debug\Guna.UI2.dll
+C:\Users\HELLO\OneDrive\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.csproj.AssemblyReference.cache
+C:\Users\HELLO\OneDrive\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.FormLSGD.resources
+C:\Users\HELLO\OneDrive\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.ThanhToanKH.resources
+C:\Users\HELLO\OneDrive\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.FormThanhToan.resources
+C:\Users\HELLO\OneDrive\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.ThanhToanTC.resources
+C:\Users\HELLO\OneDrive\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.FormKH.resources
+C:\Users\HELLO\OneDrive\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.TTKH.resources
+C:\Users\HELLO\OneDrive\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.TrangChu.resources
+C:\Users\HELLO\OneDrive\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.LoginForm.resources
+C:\Users\HELLO\OneDrive\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.MainForm.resources
+C:\Users\HELLO\OneDrive\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.FormThuCung.resources
+C:\Users\HELLO\OneDrive\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.TTTC.resources
+C:\Users\HELLO\OneDrive\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.Properties.Resources.resources
+C:\Users\HELLO\OneDrive\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.FormGiaoDien.resources
+C:\Users\HELLO\OneDrive\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.FormNguoiDung.resources
+C:\Users\HELLO\OneDrive\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.TTND.resources
+C:\Users\HELLO\OneDrive\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.csproj.GenerateResource.cache
+C:\Users\HELLO\OneDrive\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\HELLO\OneDrive\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.exe.manifest
+C:\Users\HELLO\OneDrive\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.application
+C:\Users\HELLO\OneDrive\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.csproj.CopyComplete
+C:\Users\HELLO\OneDrive\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.exe
+C:\Users\HELLO\OneDrive\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.pdb
+C:\Users\HELLO\OneDrive\Hình ảnh\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.csproj.AssemblyReference.cache
+C:\Users\HELLO\OneDrive\Hình ảnh\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.FormLSGD.resources
+C:\Users\HELLO\OneDrive\Hình ảnh\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.ThanhToanKH.resources
+C:\Users\HELLO\OneDrive\Hình ảnh\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.FormThanhToan.resources
+C:\Users\HELLO\OneDrive\Hình ảnh\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.ThanhToanTC.resources
+C:\Users\HELLO\OneDrive\Hình ảnh\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.FormKH.resources
+C:\Users\HELLO\OneDrive\Hình ảnh\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.TTKH.resources
+C:\Users\HELLO\OneDrive\Hình ảnh\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.TrangChu.resources
+C:\Users\HELLO\OneDrive\Hình ảnh\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.LoginForm.resources
+C:\Users\HELLO\OneDrive\Hình ảnh\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.MainForm.resources
+C:\Users\HELLO\OneDrive\Hình ảnh\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.FormThuCung.resources
+C:\Users\HELLO\OneDrive\Hình ảnh\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.TTTC.resources
+C:\Users\HELLO\OneDrive\Hình ảnh\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.Properties.Resources.resources
+C:\Users\HELLO\OneDrive\Hình ảnh\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.FormGiaoDien.resources
+C:\Users\HELLO\OneDrive\Hình ảnh\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.FormNguoiDung.resources
+C:\Users\HELLO\OneDrive\Hình ảnh\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.TTND.resources
+C:\Users\HELLO\OneDrive\Hình ảnh\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.csproj.GenerateResource.cache
+C:\Users\HELLO\OneDrive\Hình ảnh\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.csproj.CoreCompileInputs.cache
+C:\Users\HELLO\OneDrive\Hình ảnh\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.exe
+C:\Users\HELLO\OneDrive\Hình ảnh\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.pdb
+C:\Users\HELLO\OneDrive\Hình ảnh\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe.config
+C:\Users\HELLO\OneDrive\Hình ảnh\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe.manifest
+C:\Users\HELLO\OneDrive\Hình ảnh\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.application
+C:\Users\HELLO\OneDrive\Hình ảnh\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.exe
+C:\Users\HELLO\OneDrive\Hình ảnh\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\bin\Debug\Guna.UI2.dll
+C:\Users\HELLO\OneDrive\Hình ảnh\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.exe.manifest
+C:\Users\HELLO\OneDrive\Hình ảnh\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet Shop Management System.application
+C:\Users\HELLO\OneDrive\Hình ảnh\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\obj\Debug\Pet_Shop_Management_System.csproj.CopyComplete
+C:\Users\HELLO\OneDrive\Hình ảnh\Documents\Pet_Shop_Management_System\Pet Shop Management System\Pet Shop Management System\bin\Debug\Pet Shop Management System.pdb
